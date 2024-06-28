@@ -1,0 +1,16 @@
+[W 2024-06-23 16:55:39.682 ServerApp] A `_jupyter_server_extension_points` function was not found in jupyter_lsp. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[W 2024-06-23 16:55:39.759 ServerApp] A `_jupyter_server_extension_points` function was not found in notebook_shim. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[I 2024-06-23 16:55:39.760 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-06-23 16:55:39.768 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2024-06-23 16:55:39.777 ServerApp] jupyterlab | extension was successfully linked.
+[I 2024-06-23 16:55:39.786 ServerApp] notebook | extension was successfully linked.
+[I 2024-06-23 16:55:40.125 ServerApp] notebook_shim | extension was successfully linked.
+[I 2024-06-23 16:55:40.168 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2024-06-23 16:55:40.171 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2024-06-23 16:55:40.173 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2024-06-23 16:55:40.175 LabApp] JupyterLab extension loaded from /root/miniconda3/envs/Pein38/lib/python3.8/site-packages/jupyterlab
+[I 2024-06-23 16:55:40.175 LabApp] JupyterLab application directory is /root/miniconda3/envs/Pein38/share/jupyter/lab
+[I 2024-06-23 16:55:40.176 LabApp] Extension Manager is 'pypi'.
+[I 2024-06-23 16:55:40.181 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2024-06-23 16:55:40.186 ServerApp] notebook | extension was successfully loaded.
+[C 2024-06-23 16:55:40.186 ServerApp] Running as root is not recommended. Use --allow-root to bypass.
